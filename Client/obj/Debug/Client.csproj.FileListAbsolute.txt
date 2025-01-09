@@ -1,0 +1,10 @@
+D:\Code\C#\Client\Client\bin\Debug\Client.exe.config
+D:\Code\C#\Client\Client\bin\Debug\Client.exe
+D:\Code\C#\Client\Client\bin\Debug\Client.pdb
+D:\Code\C#\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Code\C#\Client\Client\obj\Debug\Client.Client.resources
+D:\Code\C#\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Code\C#\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Code\C#\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Code\C#\Client\Client\obj\Debug\Client.exe
+D:\Code\C#\Client\Client\obj\Debug\Client.pdb
