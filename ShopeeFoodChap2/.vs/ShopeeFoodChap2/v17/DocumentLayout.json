@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\implement\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\implement\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\testapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:testapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\implement\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\implement\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\shopeefoodchap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:shopeefoodchap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\RestaurantService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\RestaurantService.cs",
+              "RelativeToolTip": "Services\\Implement\\RestaurantService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:23:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testapi.http",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\testapi.http",
+              "RelativeDocumentMoniker": "testapi.http",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\testapi.http",
+              "RelativeToolTip": "testapi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-12T14:08:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:07:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\OrderService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\OrderService.cs",
+              "RelativeToolTip": "Services\\Implement\\OrderService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:06:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopeeFoodChap2",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\ShopeeFoodChap2.csproj",
+              "RelativeDocumentMoniker": "ShopeeFoodChap2.csproj",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\ShopeeFoodChap2.csproj",
+              "RelativeToolTip": "ShopeeFoodChap2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T14:06:40.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
