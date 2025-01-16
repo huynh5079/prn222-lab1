@@ -1,2 +1,6 @@
 // db first
 dotnet ef dbcontext scaffold "Server=LAPTOP-433H02QI\NGHUY;Database=ShopeeFoodChap2;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data -c ShopeeFoodDbContext -f
+
+Model mvc
+
+Entities -> (DTO) -> Repositories (action dtb) -> Services -> API/Front end
