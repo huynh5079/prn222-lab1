@@ -5,13 +5,13 @@ using ShopeeFoodChap2.Models;
 
 namespace ShopeeFoodChap2.Data;
 
-public partial class ShopeeFoodDbContext : DbContext
+public partial class ShopeeFoodChap2Context : DbContext
 {
-    public ShopeeFoodDbContext()
+    public ShopeeFoodChap2Context()
     {
     }
 
-    public ShopeeFoodDbContext(DbContextOptions<ShopeeFoodDbContext> options)
+    public ShopeeFoodChap2Context(DbContextOptions<ShopeeFoodChap2Context> options)
         : base(options)
     {
     }
@@ -26,19 +26,19 @@ public partial class ShopeeFoodDbContext : DbContext
     {
         modelBuilder.Entity<Driver>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Drivers__3214EC0724F202FE");
+            entity.HasKey(e => e.Id).HasName("PK__Drivers__3214EC07D5349247");
 
             entity.Property(e => e.Name).HasMaxLength(100);
             entity.Property(e => e.Phone).HasMaxLength(15);
 
             entity.HasOne(d => d.CurrentOrder).WithMany(p => p.Drivers)
                 .HasForeignKey(d => d.CurrentOrderId)
-                .HasConstraintName("FK__Drivers__Current__29572725");
+                .HasConstraintName("FK__Drivers__Current__286302EC");
         });
 
         modelBuilder.Entity<Order>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Orders__3214EC072A241852");
+            entity.HasKey(e => e.Id).HasName("PK__Orders__3214EC07B4EAFDF0");
 
             entity.Property(e => e.DeliveryAddress).HasMaxLength(200);
             entity.Property(e => e.OrderDate).HasColumnType("datetime");
@@ -46,12 +46,12 @@ public partial class ShopeeFoodDbContext : DbContext
 
             entity.HasOne(d => d.Restaurant).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.RestaurantId)
-                .HasConstraintName("FK__Orders__Restaura__267ABA7A");
+                .HasConstraintName("FK__Orders__Restaura__29572725");
         });
 
         modelBuilder.Entity<Restaurant>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Restaura__3214EC070D019059");
+            entity.HasKey(e => e.Id).HasName("PK__Restaura__3214EC0724600632");
 
             entity.Property(e => e.Address).HasMaxLength(200);
             entity.Property(e => e.Name).HasMaxLength(100);

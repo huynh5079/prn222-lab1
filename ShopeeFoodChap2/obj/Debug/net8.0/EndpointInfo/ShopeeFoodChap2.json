@@ -130,6 +130,18 @@
         }
       }
     },
+    "/api/Orders/fetch-external-orders": {
+      "get": {
+        "tags": [
+          "Orders"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Orders": {
       "get": {
         "tags": [
@@ -379,6 +391,18 @@
           }
         }
       }
+    },
+    "/api/Restaurants/process-restaurants": {
+      "get": {
+        "tags": [
+          "Restaurants"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -467,6 +491,14 @@
           },
           "phone": {
             "type": "string",
+            "nullable": true
+          },
+          "menu": {
+            "type": "string",
+            "nullable": true
+          },
+          "isActive": {
+            "type": "boolean",
             "nullable": true
           },
           "orders": {

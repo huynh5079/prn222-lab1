@@ -37,5 +37,32 @@ namespace ShopeeFoodChap2.Services.Implement
         {
             await _restaurantRepository.DeleteAsync(id);
         }
+
+        public async Task ProcessRestaurantsAsync()
+        {
+            var restaurants = await _restaurantRepository.GetAllAsync();
+            var parallelQuery = restaurants.AsParallel()
+                                           .WithDegreeOfParallelism(50) // Setting volume
+                                           .Select(r =>
+                                           {
+                                               UpdateMenu(r);
+                                               UpdateStatus(r);
+                                               return r;
+                                           }).ToList();
+        }
+        private void UpdateMenu(Restaurant restaurant)
+        {
+            // Logic update
+            restaurant.Menu = "Updated Menu part 3";
+            _restaurantRepository.UpdateAsync(restaurant);
+        }
+
+        private void UpdateStatus(Restaurant restaurant)
+        {
+            // Logic update status
+            restaurant.IsActive = true;
+            _restaurantRepository.UpdateAsync(restaurant);
+        }
+
     }
 }

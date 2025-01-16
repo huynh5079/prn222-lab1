@@ -56,4 +56,13 @@ public class RestaurantsController : ControllerBase
         await _restaurantService.DeleteRestaurantAsync(id);
         return NoContent();
     }
+
+        // API check process
+    [HttpGet("process-restaurants")]
+    public async Task<IActionResult> ProcessRestaurants()
+    {
+        await _restaurantService.ProcessRestaurantsAsync();
+        var restaurants = await _restaurantService.GetAllRestaurantsAsync();
+        return Ok(restaurants);
+    }
 }

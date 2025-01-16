@@ -7,9 +7,9 @@ namespace ShopeeFoodChap2.Repositories.Implement
 {
     public class OrderRepository : IOrderRepository
     {
-        private readonly ShopeeFoodDbContext _context;
+        private readonly ShopeeFoodChap2Context _context;
 
-        public OrderRepository(ShopeeFoodDbContext context)
+        public OrderRepository(ShopeeFoodChap2Context context)
         {
             _context = context;
         }
@@ -24,24 +24,24 @@ namespace ShopeeFoodChap2.Repositories.Implement
             return await _context.Orders.FindAsync(id);
         }
 
-        public async Task AddAsync(Order entity)
+        public async Task AddAsync(Order order)
         {
-            await _context.Orders.AddAsync(entity);
+            await _context.Orders.AddAsync(order);
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateAsync(Order entity)
+        public async Task UpdateAsync(Order order)
         {
-            _context.Orders.Update(entity);
+            _context.Orders.Update(order);
             await _context.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(int id)
         {
-            var entity = await _context.Orders.FindAsync(id);
-            if (entity != null)
+            var order = await _context.Orders.FindAsync(id);
+            if (order != null)
             {
-                _context.Orders.Remove(entity);
+                _context.Orders.Remove(order);
                 await _context.SaveChangesAsync();
             }
         }

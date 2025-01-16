@@ -9,7 +9,8 @@ namespace ShopeeFoodChap2.Services.Interfaces
         Task AddOrderAsync(Order order);
         Task UpdateOrderAsync(Order order);
         Task DeleteOrderAsync(int id);
-
+        //Add
         Task<IEnumerable<Order>> FetchOrdersFromApiAsync();
+        Task CheckOrderStatusAsync();
     }
 }

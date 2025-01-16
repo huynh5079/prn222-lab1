@@ -9,5 +9,9 @@ namespace ShopeeFoodChap2.Services.Interfaces
         Task AddRestaurantAsync(Restaurant restaurant);
         Task UpdateRestaurantAsync(Restaurant restaurant);
         Task DeleteRestaurantAsync(int id);
+
+        //Add
+
+        Task ProcessRestaurantsAsync();
     }
 }

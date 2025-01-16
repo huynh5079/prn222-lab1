@@ -7,9 +7,9 @@ namespace ShopeeFoodChap2.Repositories.Implement
 {
     public class DriverRepository : IDriverRepository
     {
-        private readonly ShopeeFoodDbContext _context;
+        private readonly ShopeeFoodChap2Context _context;
 
-        public DriverRepository(ShopeeFoodDbContext context)
+        public DriverRepository(ShopeeFoodChap2Context context)
         {
             _context = context;
         }
@@ -24,24 +24,24 @@ namespace ShopeeFoodChap2.Repositories.Implement
             return await _context.Drivers.FindAsync(id);
         }
 
-        public async Task AddAsync(Driver entity)
+        public async Task AddAsync(Driver driver)
         {
-            await _context.Drivers.AddAsync(entity);
+            await _context.Drivers.AddAsync(driver);
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateAsync(Driver entity)
+        public async Task UpdateAsync(Driver driver)
         {
-            _context.Drivers.Update(entity);
+            _context.Drivers.Update(driver);
             await _context.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(int id)
         {
-            var entity = await _context.Drivers.FindAsync(id);
-            if (entity != null)
+            var driver = await _context.Drivers.FindAsync(id);
+            if (driver != null)
             {
-                _context.Drivers.Remove(entity);
+                _context.Drivers.Remove(driver);
                 await _context.SaveChangesAsync();
             }
         }

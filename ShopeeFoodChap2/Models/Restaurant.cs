@@ -13,5 +13,9 @@ public partial class Restaurant
 
     public string? Phone { get; set; }
 
+    public string? Menu { get; set; }
+
+    public bool? IsActive { get; set; }
+
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
 }

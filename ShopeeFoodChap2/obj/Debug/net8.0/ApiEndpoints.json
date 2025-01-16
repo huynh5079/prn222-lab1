@@ -158,6 +158,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "OrdersController",
+    "Method": "FetchExternalOrders",
+    "RelativePath": "api/Orders/fetch-external-orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RestaurantsController",
     "Method": "GetAllRestaurants",
     "RelativePath": "api/Restaurants",
@@ -234,6 +244,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantsController",
+    "Method": "ProcessRestaurants",
+    "RelativePath": "api/Restaurants/process-restaurants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

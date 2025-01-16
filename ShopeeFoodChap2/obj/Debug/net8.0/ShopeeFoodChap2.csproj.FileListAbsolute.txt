@@ -41,6 +41,7 @@ D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Microsoft.Op
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -130,6 +131,7 @@ D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodCh
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodChap2.csproj.CoreCompileInputs.cache
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodChap2.MvcApplicationPartsAssemblyInfo.cs
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodChap2.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodChap2.sourcelink.json
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\scopedcss\bundle\ShopeeFoodChap2.styles.css
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\staticwebassets.build.json
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\staticwebassets.development.json
@@ -146,4 +148,3 @@ D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\refint\Shope
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodChap2.pdb
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ShopeeFoodChap2.genruntimeconfig.cache
 D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\obj\Debug\net8.0\ref\ShopeeFoodChap2.dll
-D:\Code\CodeVisual\ShopeeFoodChap2\ShopeeFoodChap2\bin\Debug\net8.0\Newtonsoft.Json.dll

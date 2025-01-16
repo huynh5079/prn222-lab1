@@ -40,7 +40,7 @@ namespace ShopeeFoodChap2.Services.Implement
         {
             await _orderRepository.DeleteAsync(id);
         }
-
+        //Add
         public async Task<IEnumerable<Order>> FetchOrdersFromApiAsync()
         {
             try
@@ -55,7 +55,13 @@ namespace ShopeeFoodChap2.Services.Implement
             catch (Exception ex) 
             { // error catch
                 Console.WriteLine($"Error fetching orders: {ex.Message}"); 
-                return null; }
+                return null; 
             }
+        }
+
+        public Task CheckOrderStatusAsync()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
