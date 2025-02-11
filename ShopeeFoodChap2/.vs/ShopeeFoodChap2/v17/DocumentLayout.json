@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\implement\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\implement\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\implement\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\implement\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\implement\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\implement\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\implement\\orderstatusbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\implement\\orderstatusbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\repositories\\implement\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:repositories\\implement\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|d:\\code\\codevisual\\shopeefoodchap2\\shopeefoodchap2\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823CA8CD-993D-482C-A405-09665CA7362A}|ShopeeFoodChap2.csproj|solutionrelative:controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:13:24.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:46:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Models\\Driver.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Models\\Driver.cs",
+              "RelativeToolTip": "Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:46:50.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:18:30.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\DriverService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\DriverService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\DriverService.cs",
+              "RelativeToolTip": "Services\\Implement\\DriverService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:18:18.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatusBackgroundService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\OrderStatusBackgroundService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\OrderStatusBackgroundService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\OrderStatusBackgroundService.cs",
+              "RelativeToolTip": "Services\\Implement\\OrderStatusBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:18:05.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Repositories\\Implement\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implement\\OrderRepository.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Repositories\\Implement\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Implement\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:18:06.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:16:48.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:12:23.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\OrderService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\OrderService.cs",
+              "RelativeToolTip": "Services\\Implement\\OrderService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:59:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:57:32.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\RestaurantService.cs",
+              "ToolTip": "D:\\Code\\CodeVisual\\ShopeeFoodChap2\\ShopeeFoodChap2\\Services\\Implement\\RestaurantService.cs",
+              "RelativeToolTip": "Services\\Implement\\RestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:52:51.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

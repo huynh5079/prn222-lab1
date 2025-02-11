@@ -1,0 +1,79 @@
+### process-restaurant
+GET http://localhost:5149/api/restaurants/process-restaurants
+### fetch order
+GET http://localhost:5149/api/orders/fetch-external-orders
+### get all orders
+GET http://localhost:5149/api/orders
+### get order by id
+GET http://localhost:5149/api/orders/1
+### get all restaurants
+GET http://localhost:5149/api/restaurants
+### get restaurant by id
+GET http://localhost:5149/api/restaurants/1
+### get all drivers
+GET http://localhost:5149/api/drivers
+### get driver by id
+GET http://localhost:5149/api/drivers/1
+
+### add order
+POST http://localhost:5149/api/orders
+{
+    "orderNumber": "ORD123",
+    "orderDetails": "Pizza, Salad",
+    "deliveryAddress": "123 Main St",
+    "orderDate": "2025-01-12T14:00:00",
+    "restaurantId": 1
+}
+### update order
+PUT http://localhost:5149/api/orders/1
+
+{
+    "id": 1,
+    "orderNumber": "ORD123",
+    "orderDetails": "Pizza, Salad",
+    "deliveryAddress": "123 Main St",
+    "orderDate": "2025-01-12T14:00:00",
+    "restaurantId": 1
+}
+### delete order
+DELETE http://localhost:5149/api/orders/1
+
+### add restaurant
+POST http://localhost:5149/api/restaurants
+{
+    "name": "Restaurant A",
+    "address": "123 Main St",
+    "phone": "123-456-7890"
+}
+### update restaurant
+PUT http://localhost:5149/api/restaurants/1
+
+{
+    "id": 1,
+    "name": "Restaurant A",
+    "address": "123 Main St",
+    "phone": "123-456-7890"
+}
+### delete restaurant
+DELETE http://localhost:5149/api/restaurants/1
+
+### add driver
+POST http://localhost:5149/api/drivers
+
+{
+    "name": "Driver A",
+    "phone": "123-456-7890",
+    "currentOrderId": 1
+}
+### update driver
+PUT http://localhost:5149/api/drivers/{id}
+
+{
+    "id": 1,
+    "name": "Driver A",
+    "phone": "123-456-78453445349",
+    "currentOrderId": 1
+}
+### delete driver
+DELETE http://localhost:5149/api/drivers/1
+###
